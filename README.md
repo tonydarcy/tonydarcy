@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tonydarcy
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ASP.Net
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 tonydarcy/tonydarcy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
